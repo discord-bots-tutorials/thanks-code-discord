@@ -50,4 +50,4 @@ client.on("messageCreate", message => {
 
 app.listen(3000);
 
-client.login("OTMxOTk5MDc4OTE5ODM1NzU5.YeMlyA.wCzr9ir0INjCfO_nRuO4em7ajTo");
+client.login("")//لاتسوي قافط غيرت التوكن الي بالمقطع :)
