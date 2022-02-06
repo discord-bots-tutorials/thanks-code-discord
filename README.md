@@ -1,2 +1,1 @@
-# thanks-code-discord
-Thanks code for discord bots
+# All codes which i do on youtube it will be here
